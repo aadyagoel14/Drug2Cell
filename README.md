@@ -3,7 +3,7 @@ An Agentic AI System for In-Silico Drug Response Prediction
 
 Select a drug and cancer cell type — get genome-wide gene expression predictions in seconds, backed by PubMed literature and a RAG-powered chatbot that explains *why*.
 
-> ⚠️ **Code not available due to NIH contract restrictions ** 
+> ⚠️ **Code not available due to NIH contract restrictions** 
 
 ---
 
